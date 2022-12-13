@@ -18,7 +18,7 @@ module.exports = {
     },
     networks: {
       ganache: {
-        url: "http://localhost:8545"
+        url: "https://rpc0.altcoinchain.org/rpc"
       },
       "bsc-testnet": {
         url: "https://data-seed-prebsc-1-s1.binance.org:8545/",
